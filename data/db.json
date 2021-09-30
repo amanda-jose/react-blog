@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "hi",
+      "body": "this is my blog entry!",
+      "author": "amanda",
+      "id": 3
+    },
+    {
+      "title": "hello!",
+      "body": "this is my second entry!",
+      "author": "amanda",
+      "id": 4
+    },
+    {
+      "title": "howdy y'all",
+      "body": "another entry!",
+      "author": "jose",
+      "id": 5
+    }
+  ]
+}
