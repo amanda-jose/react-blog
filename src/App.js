@@ -6,7 +6,7 @@ import BlogDetails from './BlogDetails';
 import NotFound from './NotFound';
 
 function App() {
-  const title = 'Welcome to the new blog'; //converts whatever datatype to string but cannot output booleans or objects
+  //const title = 'Welcome to the new blog'; //converts whatever datatype to string but cannot output booleans or objects
   return (
     <Router>
       <div className="App">

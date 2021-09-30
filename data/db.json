@@ -1,12 +1,6 @@
 {
   "blogs": [
     {
-      "title": "hi",
-      "body": "this is my blog entry!",
-      "author": "amanda",
-      "id": 3
-    },
-    {
       "title": "hello!",
       "body": "this is my second entry!",
       "author": "amanda",
@@ -17,6 +11,12 @@
       "body": "another entry!",
       "author": "jose",
       "id": 5
+    },
+    {
+      "title": "HIYA",
+      "body": "this is a blog entry!",
+      "author": "amanda",
+      "id": 6
     }
   ]
 }
